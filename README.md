@@ -1,2 +1,2 @@
 # P03
-Signal processing
+Signal processing using Discrete Transform Wavelet (DWT) and Machine Learning's algorithms for ECG signal
